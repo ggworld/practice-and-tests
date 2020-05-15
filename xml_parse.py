@@ -30,4 +30,4 @@ def ids_by_message(root,str_to_search):
     return l_to_ret
 
 if __name__=='__main__':
-    print(ids_by_message(root,'Application started g'))
+    print(ids_by_message(root,'Application started'))
